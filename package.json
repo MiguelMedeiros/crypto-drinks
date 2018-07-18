@@ -1,0 +1,22 @@
+{
+  "name": "crypto-drinks",
+  "version": "1.0.0",
+  "description": "Trade BTC for drinks!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "candy",
+    "bitcoin"
+  ],
+  "author": "Miguel Medeiros",
+  "license": "MIT",
+  "dependencies": {
+    "lcdi2c": "^1.0.6",
+    "nodemon": "^1.18.3",
+    "pigpio": "^1.1.0",
+    "websocket": "^1.0.26"
+  }
+}
